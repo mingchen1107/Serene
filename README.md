@@ -1,6 +1,6 @@
 # Serene
 
-An uncompromisingly simple notepad to hold your thoughts: [Serene](https://mingchen1107.github.io/serene/).
+An uncompromisingly simple notepad to hold your thoughts: [Serene](https://mingchen1107.github.io/Serene/).
 
 ## Features
 
